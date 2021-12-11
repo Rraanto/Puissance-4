@@ -176,9 +176,6 @@ public class Fenetre extends JFrame {
                 if(choice == JOptionPane.OK_OPTION){
                     versMenuPrincipal();
                 }
-                else {
-                    // rien
-                }
             }
         }
     }
