@@ -98,11 +98,4 @@ public class App {
 /*****
  * 13 JUILLET 2021 02:21:49 
  * Ranto Ny Aina Rakotondrajoa
- * 
- * Tâches à faire : 
- * -mise en forme, ajout menu, aide, documentation, 
- * optimisation UI
- * 
- * -utiliser des variables plus générales pour les dimensions
- * (position des cercles etc) pour faciliter la réutilisation
  */
