@@ -1,4 +1,4 @@
-# Puissance-4 (Academic project)
+# Puissance-4 
 
 Implementation of the Connect four board game in Java using Swing.
 
