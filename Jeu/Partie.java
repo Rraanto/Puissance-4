@@ -93,8 +93,7 @@ public class Partie {
         boolean result = true;
         // parcours de tableau
         for(int i=0; i<gameboard.length; i++) {
-            for(int j=0; j<gameboard[i].length; j++) {
-                // vérification
+            for(int j=0; j < gameboard[i].length; j++) {
                 if(gameboard[i][j] == 0) {
                     result = false;
                 }
